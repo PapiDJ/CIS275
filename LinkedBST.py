@@ -2,7 +2,6 @@ from AbstractCollection import AbstractCollection
 from BinaryNode import BinaryNode
 from LinkedQueue import LinkedQueue
 
-
 class LinkedBST(AbstractCollection):
 	""" A linked binary search tree implementation which uses Nodes """
 
