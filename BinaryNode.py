@@ -17,3 +17,5 @@ class BinaryNode:
 				return 0
 			else:
 				return 1 + max(recurse(node.left), recurse(node.right))
+
+			
