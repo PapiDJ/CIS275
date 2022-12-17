@@ -1,5 +1,6 @@
 from LinkedBST import LinkedBST
 
+
 t = LinkedBST()
 t.add(10)
 t.add(5)
